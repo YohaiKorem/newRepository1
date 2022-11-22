@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.lose {
+  background-color: aqua;
+  color: red;
+  text-align: center;
+  margin: auto;
+  padding: 2px;
+  width: 100px;
+  height: 100px;
+}
+
+.win {
+  background-color: rgb(65, 23, 233);
+  color: red;
+  text-align: center;
+  margin: auto;
+  padding: 2px;
+  width: 100px;
+  height: 100px;
+}
+
+.ghost {
+  background-color: white;
+  height: 15px;
+  width: 15px;
+  padding: 2px;
+}
+
+
+/* .formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+} */
